@@ -216,8 +216,7 @@ The project builds upon previous work on the same dataset:
 ```
 .
 ├── project_complete-1.ipynb    # Main Jupyter notebook with complete analysis
-├── README.md                    # This file
-└── hypertension_dataset.csv     # Dataset (download from Kaggle link above)
+└── README.md                   # This file
 ```
 
 ## 🔬 Key Insights
@@ -238,20 +237,7 @@ Contributions to this project are welcome! Areas for future improvement:
 - External validation on different datasets
 - Feature importance analysis and interpretability
 
-## 📝 Citation
 
-If you use this project in your research, please cite:
-
-```
-Hypertension Risk Prediction Project
-DS 675 Milestone 4 Report
-Authors: Sohaib Chachar, Thomas Bowen, Alexander Zugaj
-Year: 2025
-```
-
-## 📄 License
-
-This project is for educational purposes as part of DS 675 coursework.
 
 ## 🔗 Links
 
@@ -261,4 +247,5 @@ This project is for educational purposes as part of DS 675 coursework.
 ---
 
 **Note**: This project demonstrates a comprehensive machine learning pipeline for healthcare prediction tasks. Results highlight the importance of thorough evaluation metrics (ROC-AUC) beyond simple accuracy scores, especially for imbalanced datasets in clinical settings.
+
 
